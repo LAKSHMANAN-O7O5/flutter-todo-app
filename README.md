@@ -31,13 +31,11 @@
 
 <div align="center">
 
-| Empty State | Tasks Added | Task Completed |
+| Empty State | Task Added | Task Completed |
 |:-----------:|:----------:|:--------------:|
-| _Add your screenshots here_ | _Add your screenshots here_ | _Add your screenshots here_ |
+| <img src="screenshots/empty_state.png" width="300"/> | <img src="screenshots/task_added.png" width="300"/> | <img src="screenshots/task_completed.png" width="300"/> |
 
 </div>
-
-> 💡 **Tip:** Take screenshots from your emulator or device and place them in a `screenshots/` folder, then update the paths above.
 
 ---
 
