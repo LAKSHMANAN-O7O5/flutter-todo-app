@@ -8,6 +8,7 @@
 [![Dart](https://img.shields.io/badge/Dart-3.9-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-blueviolet?style=for-the-badge)]()
+[![Netlify](https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://todolistappbasic.netlify.app/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/LAKSHMANAN-O7O5/flutter-todo-app/pulls)
 
 <br/>
@@ -17,6 +18,10 @@
 <img src="https://img.shields.io/github/forks/LAKSHMANAN-O7O5/flutter-todo-app?style=social" alt="Forks"/>
 &nbsp;
 <img src="https://img.shields.io/github/watchers/LAKSHMANAN-O7O5/flutter-todo-app?style=social" alt="Watchers"/>
+
+<br/><br/>
+
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-FF6B6B?style=for-the-badge&logoColor=white)](https://todolistappbasic.netlify.app/)
 
 </div>
 
