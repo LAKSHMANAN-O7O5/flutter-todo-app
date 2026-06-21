@@ -8,15 +8,15 @@
 [![Dart](https://img.shields.io/badge/Dart-3.9-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-blueviolet?style=for-the-badge)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/Sathish007-tech/flutter-todo-app/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/LAKSHMANAN-O7O5/flutter-todo-app/pulls)
 
 <br/>
 
-<img src="https://img.shields.io/github/stars/Sathish007-tech/flutter-todo-app?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/LAKSHMANAN-O7O5/flutter-todo-app?style=social" alt="Stars"/>
 &nbsp;
-<img src="https://img.shields.io/github/forks/Sathish007-tech/flutter-todo-app?style=social" alt="Forks"/>
+<img src="https://img.shields.io/github/forks/LAKSHMANAN-O7O5/flutter-todo-app?style=social" alt="Forks"/>
 &nbsp;
-<img src="https://img.shields.io/github/watchers/Sathish007-tech/flutter-todo-app?style=social" alt="Watchers"/>
+<img src="https://img.shields.io/github/watchers/LAKSHMANAN-O7O5/flutter-todo-app?style=social" alt="Watchers"/>
 
 </div>
 
@@ -78,7 +78,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Sathish007-tech/flutter-todo-app.git
+git clone https://github.com/LAKSHMANAN-O7O5/flutter-todo-app.git
 
 # 2. Navigate to the project directory
 cd flutter-todo-app
@@ -167,6 +167,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Made with ❤️ and Flutter**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sathish007--tech-181717?style=for-the-badge&logo=github)](https://github.com/Sathish007-tech)
+[![GitHub](https://img.shields.io/badge/GitHub-LAKSHMANAN--O7O5-181717?style=for-the-badge&logo=github)](https://github.com/LAKSHMANAN-O7O5)
 
 </div>
