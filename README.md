@@ -33,7 +33,7 @@
 
 | Empty State | Task Added | Task Completed |
 |:-----------:|:----------:|:--------------:|
-| <img src="screenshots/empty_state.png" width="300"/> | <img src="screenshots/task_added.png" width="300"/> | <img src="screenshots/task_completed.png" width="300"/> |
+| <img src="screenshots/empty_state.png" width="300"/> | <img src="screenshots/tasks_added.png" width="300"/> | <img src="screenshots/task_completed.png" width="300"/> |
 
 </div>
 
